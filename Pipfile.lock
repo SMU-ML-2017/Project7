@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "debec8c8cfae89a425904f606b466fa5ff86b527e76e749b1cef4ae7ae552744"
+            "sha256": "19ffd9c45c09878eecef9e06d75b62c4475b6bba1e5418eaf1666c94b62c097c"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -11,7 +11,7 @@
             "platform_python_implementation": "CPython",
             "platform_release": "16.7.0",
             "platform_system": "Darwin",
-            "platform_version": "Darwin Kernel Version 16.7.0: Thu Jun 15 17:36:27 PDT 2017; root:xnu-3789.70.16~2/RELEASE_X86_64",
+            "platform_version": "Darwin Kernel Version 16.7.0: Wed Oct  4 00:17:00 PDT 2017; root:xnu-3789.71.6~1/RELEASE_X86_64",
             "python_full_version": "3.6.3",
             "python_version": "3.6",
             "sys_platform": "darwin"
@@ -104,10 +104,10 @@
         },
         "ipywidgets": {
             "hashes": [
-                "sha256:a805635c038783f020bbad50f909a7367a38cae80274f562f82d1f77282e6925",
-                "sha256:f98b4c3719097c9d2e6489f303db520b20bd4de3e0b1d6d4f92f81bfe3c2a0c8"
+                "sha256:c14e5e6e3ff052d249c27085ad9b5d70d9ae5a5ee6d50dadf0ff47a35ed6bab3",
+                "sha256:ccf4d080de67cb05f4a209023c7ffb2be183da903a78d584ef3f7091d9732d17"
             ],
-            "version": "==7.0.3"
+            "version": "==7.0.4"
         },
         "jedi": {
             "hashes": [
@@ -692,14 +692,15 @@
                 "sha256:e721e53864f084f956f40f96124a74da0631ac13fbbd1ba99e8e2b5e9cafdf64",
                 "sha256:9515fe0a94e823fd90b08d22de45d7bde57c90edce705b22f5e1ecf7e1b653c8"
             ],
+            "markers": "python_version >= '3'",
             "version": "==0.30.0"
         },
         "widgetsnbextension": {
             "hashes": [
-                "sha256:7d502e39c932c5389f136a6b66e7b1c1346a743d391bc0fee15629d9f0830c85",
-                "sha256:3fbedb4ae0883f48af2397c65a8f9fbf8ed868f1808db70f8aa72f25d391fa9b"
+                "sha256:2d1548a31036c74d4f743bfb1127f1cc2226865440b7a4d2e033d7eabb8497bf",
+                "sha256:b9d78cba8e6563e28fd255e64c9dbd59ebb625e6a44ab0afdec2efdb83774ff2"
             ],
-            "version": "==3.0.6"
+            "version": "==3.0.7"
         }
     },
     "develop": {}
